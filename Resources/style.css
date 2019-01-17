@@ -12,7 +12,7 @@ body {
   text-align: center;
   font-family: Veranda;
   color: white
-  
+
 }
 
 .link--cta {
@@ -28,4 +28,9 @@ body {
 .header--discription {
   font-size: 21px;
   color: grey;
+}
+
+.header--coming_soon {
+  font-weight: 300;
+  font-size: 42px;
 }
